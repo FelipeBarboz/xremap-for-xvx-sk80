@@ -1,0 +1,19 @@
+modmap:
+  - name: F-keys remap
+    device:
+      only:
+        - "SONiX Gaming Keyboard"
+    remap:
+      KEY_BRIGHTNESSDOWN: F1
+      KEY_BRIGHTNESSUP:   F2
+      KEY_SCALE:          F3
+      KEY_DASHBOARD:      F4
+      KEY_KBDILLUMDOWN:   F5
+      KEY_KBDILLUMUP:     F6
+      KEY_PREVIOUSSONG:   F7
+      KEY_PLAYPAUSE:      F8
+      KEY_NEXTSONG:       F9
+      KEY_MUTE:           F10
+      KEY_VOLUMEDOWN:     F11
+      KEY_VOLUMEUP:       F12
+
